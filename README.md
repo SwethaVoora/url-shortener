@@ -25,7 +25,7 @@ And the urls.json file is specific to each user as it contains the codes and URL
 1. Clone the repository:
 
 ```
-git clone https://github/com/SwethaVoora/url-shortener.git
+git clone https://github.com/SwethaVoora/url-shortener.git
 ```
 
 2. navigate to the project directory
